@@ -4,7 +4,7 @@
     <img src=".github/logo-stiker.svg" width="250px">
 </h1>
 
-O Playwright é um novo framework para automação de testes em aplicações web e também APIs. Está ganhando força devido aos seus vários benefícios, como suporte para várias linguagens, como Java, C#, Node.js e Python. Execuções MultiBrowser no Firefox, Webkit (Safari) e navegadores baseados em Chromium, como o Google Chrome e o novo Microsoft Edge.
+O Playwright é um novo framework para automação de testes em aplicações web e também APIs. Está ganhando força devido aos seus vários benefícios, como suporte para várias linguagens, como Java, C#, Javascript, Typescript e Python. Execuções MultiBrowser no Firefox, Webkit (Safari) e navegadores baseados em Chromium, como o Google Chrome e o novo Microsoft Edge.
 
 ## 🚀 Tecnologias
 
